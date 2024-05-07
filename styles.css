@@ -1,0 +1,26 @@
+.react-datepicker__control {
+  border: 0.1px solid;
+  border-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 0%;
+  padding: 2.5px 16px;
+  width: 265px;
+}
+
+.react-datepicker__menu {
+  background-color: white;
+  margin-top: 4px;
+}
+.react-datepicker__option {
+  padding: 10px;
+}
+.react-datepicker__option:hover {
+  background-color: #218c75c6;
+  cursor: pointer;
+  color: white;
+}
+.react-datepicker__placeholder {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: black;
+}
